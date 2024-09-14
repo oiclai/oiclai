@@ -1,5 +1,7 @@
-## Hi there 👋
+####Hi! My name is Clara
+###I'm a Internet Systems student trying to become a back-end developer.
 
+Currently learning: Python
 <!--
 **oiclai/oiclai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
