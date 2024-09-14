@@ -1,8 +1,10 @@
-## Hi! My name is Clara
+Hi! My name is Clara 
 
-### I'm a Internet Systems student trying to become a back-end developer.
+I'm a **Internet Systems student**
 
-Currently learning: Python
+Trying to become a back-end developer.
+
+**Currently learning :hotsprings:: Python**
 <!--
 **oiclai/oiclai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
