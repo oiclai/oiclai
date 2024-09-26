@@ -1,8 +1,6 @@
 Hi! My name is Clara 
 
-I'm a **Internet Systems student**
-
-Trying to become a back-end developer.
+I'm a **Internet Systems student** trying to become a back-end developer.
 
 **Currently learning :hotsprings:: Python**
 
