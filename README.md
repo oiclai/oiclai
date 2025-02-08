@@ -3,16 +3,6 @@ I'm **Clara** and I'm a **Internet Systems student** trying to become a back-end
 <img alt="top langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiclai&layout=compact" style="margin-top: 100px;"/>
 
 
-<div style="display: inline-block">
-  <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-
-
 ##
 
 > **Feel free to contact me through**
