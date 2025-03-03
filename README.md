@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋 I'm <strong>Clara!</strong></h1>
 <p align="center">
-  Internet Systems Student | 💻 Backend & Networking Enthusiast | Always learning <strong>new technologies</strong> and improving my coding skills </p>
+  <strong>Internet Systems Student, 2nd semester out of 6</strong> | 💻 Backend & Networking Enthusiast | Always learning and improving my coding skills </p>
   
   ---
   
