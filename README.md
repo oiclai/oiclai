@@ -6,7 +6,7 @@
   
 ### ⚙ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,nodejs,figma,cs,nextjs,tailwindcss,cpp,flask,js,mysql,react,linux&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,figma,cs,nextjs,tailwindcss,cpp,flask,js,mysql,react,linux&theme=light" alt="Tech Stack" />
 </p>
 
 ---
