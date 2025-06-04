@@ -1,6 +1,6 @@
 <h1 align="left">👤 <strong>Clara Brito P. N. de Alcântara</strong></h1>
 
-#### [Internet Systems Development](https://estudante.ifpb.edu.br/cursos/39/) Student at the [Instituto Federal da Paraíba](https://www.ifpb.edu.br/joaopessoa)
+#### [Internet Systems Development](https://estudante.ifpb.edu.br/cursos/39/) Student at the [Instituto Federal da Paraíba](https://www.ifpb.edu.br/joaopessoa) (IFPB)
   <img src="https://skillicons.dev/icons?i=python,django,react,cs,tailwindcss,cpp,postgresql,js,linux&theme=light" alt="Tech Stack" />
 Current tech stack displayed above.
 
