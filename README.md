@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,cs,tailwindcss,cpp,postgresql,js,linux&theme=light" alt="Tech Stack" />
 Current tech stack displayed above.
 
-> For further information, professional inquiries or collaboration, contact me at:
+> For further information, professional inquiries or collaboration, contact me through:
 <p>
   <a href="https://linkedin.com/in/clara-nunes-de-alcantara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="mailto:clarabpnalcantara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
