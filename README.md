@@ -11,4 +11,8 @@ Current tech stack displayed above.
   <a href="https://www.instagram.com/clarabalcantara/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
-
+---
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oiclai&show_icons=true&theme=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiclai&layout=compact" />
+</p>
