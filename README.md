@@ -16,3 +16,4 @@ Current tech stack displayed above.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarabalcantara&show_icons=true&theme=compact" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarabalcantara&layout=compact" />
 </p>
+<p align="right"><img alt="clara's visitors" src="https://komarev.com/ghpvc/?username=clarabalcantara&color=8c36db&style=flat&label=visitors" /></p>
